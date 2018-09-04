@@ -1,0 +1,9 @@
+D:\PCA\C#\Ex C#\ConnectFrom\ConnectFrom\bin\Debug\ConnectFrom.exe.config
+D:\PCA\C#\Ex C#\ConnectFrom\ConnectFrom\bin\Debug\ConnectFrom.exe
+D:\PCA\C#\Ex C#\ConnectFrom\ConnectFrom\bin\Debug\ConnectFrom.pdb
+D:\PCA\C#\Ex C#\ConnectFrom\ConnectFrom\obj\Debug\ConnectFrom.csprojResolveAssemblyReference.cache
+D:\PCA\C#\Ex C#\ConnectFrom\ConnectFrom\obj\Debug\ConnectFrom.txtUser.resources
+D:\PCA\C#\Ex C#\ConnectFrom\ConnectFrom\obj\Debug\ConnectFrom.Properties.Resources.resources
+D:\PCA\C#\Ex C#\ConnectFrom\ConnectFrom\obj\Debug\ConnectFrom.csproj.GenerateResource.Cache
+D:\PCA\C#\Ex C#\ConnectFrom\ConnectFrom\obj\Debug\ConnectFrom.exe
+D:\PCA\C#\Ex C#\ConnectFrom\ConnectFrom\obj\Debug\ConnectFrom.pdb

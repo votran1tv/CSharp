@@ -1,0 +1,9 @@
+D:\PCA\C#\Ex C#\WindowsFormsApplication_QLBH\WindowsFormsApplication_QLBH\bin\Debug\WindowsFormsApplication_QLBH.exe.config
+D:\PCA\C#\Ex C#\WindowsFormsApplication_QLBH\WindowsFormsApplication_QLBH\bin\Debug\WindowsFormsApplication_QLBH.exe
+D:\PCA\C#\Ex C#\WindowsFormsApplication_QLBH\WindowsFormsApplication_QLBH\bin\Debug\WindowsFormsApplication_QLBH.pdb
+D:\PCA\C#\Ex C#\WindowsFormsApplication_QLBH\WindowsFormsApplication_QLBH\obj\Debug\WindowsFormsApplication_QLBH.csprojResolveAssemblyReference.cache
+D:\PCA\C#\Ex C#\WindowsFormsApplication_QLBH\WindowsFormsApplication_QLBH\obj\Debug\WindowsFormsApplication_QLBH.Form1.resources
+D:\PCA\C#\Ex C#\WindowsFormsApplication_QLBH\WindowsFormsApplication_QLBH\obj\Debug\WindowsFormsApplication_QLBH.Properties.Resources.resources
+D:\PCA\C#\Ex C#\WindowsFormsApplication_QLBH\WindowsFormsApplication_QLBH\obj\Debug\WindowsFormsApplication_QLBH.csproj.GenerateResource.Cache
+D:\PCA\C#\Ex C#\WindowsFormsApplication_QLBH\WindowsFormsApplication_QLBH\obj\Debug\WindowsFormsApplication_QLBH.exe
+D:\PCA\C#\Ex C#\WindowsFormsApplication_QLBH\WindowsFormsApplication_QLBH\obj\Debug\WindowsFormsApplication_QLBH.pdb
